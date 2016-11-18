@@ -53,14 +53,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ListVocabulary\ArrayListAdapter.cs" />
+    <Compile Include="Helper\AccessJSON.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShowWord\ShowThisWord.cs" />
     <Compile Include="SplashScreen.cs" />
+    <Compile Include="Util\StringUtil.cs" />
+    <Compile Include="WordInVocabulary.cs" />
   </ItemGroup>
   <ItemGroup>
     <AndroidAsset Include="Assets\data.shtpjson" />
+    <None Include="app.config" />
     <None Include="GettingStarted.Xamarin" />
     <None Include="packages.config" />
     <None Include="Resources\AboutResources.txt" />
@@ -71,9 +75,14 @@
     <AndroidResource Include="Resources\layout\row_In_List_Voca.axml">
       <SubType>AndroidResource</SubType>
     </AndroidResource>
+    <AndroidResource Include="Resources\layout\ShowThisWord_layout.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\layout\Main.axml" />
+    <AndroidResource Include="Resources\layout\Main.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\values\Strings.xml" />
@@ -96,6 +105,25 @@
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\Back_Icon.png" />
   </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\DataClip\hcm\a.mp4" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\On_Hcm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\DataClip\hanoi\a_hau.mp4" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Off_Ha_Noi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Off_Hcm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\On_Ha_Noi.png" />
+  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
      Other similar extension points exist, see Microsoft.Common.targets.

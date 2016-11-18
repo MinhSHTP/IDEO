@@ -1,18 +1,833 @@
 ﻿[
-	{
-		"Word":"Papa",
-		"URL":"0988011194",
-	},
-	{
-		"Word":"Papa",
-		"URL":"0988011194",
-	},
-	{
-		"Word":"Papa",
-		"URL":"0988011194",
-	},
-	{
-		"Word":"Papa",
-		"URL":"0988011194",
-	}
+  {
+    "Word": "a"
+  },
+  {
+    "Word": "á hậu"
+  },
+  {
+    "Word": "ai?"
+  },
+  {
+    "Word": "aids"
+  },
+  {
+    "Word": "ám ảnh"
+  },
+  {
+    "Word": "ă"
+  },
+  {
+    "Word": "ẵm em"
+  },
+  {
+    "Word": "ăn"
+  },
+  {
+    "Word": "ăn bánh quy"
+  },
+  {
+    "Word": "ăn cá"
+  },
+  {
+    "Word": "â"
+  },
+  {
+    "Word": "âm lịch"
+  },
+  {
+    "Word": "âm mưu"
+  },
+  {
+    "Word": "ấm/ấm áp"
+  },
+  {
+    "Word": "ẩn dụ"
+  },
+  {
+    "Word": "b"
+  },
+  {
+    "Word": "ba(đại từ)"
+  },
+  {
+    "Word": "ba(số từ)"
+  },
+  {
+    "Word": "bà ngoại"
+  },
+  {
+    "Word": "bà nội"
+  },
+  {
+    "Word": "bạn bè"
+  },
+  {
+    "Word": "bao nhiêu tiền?"
+  },
+  {
+    "Word": "bẩn"
+  },
+  {
+    "Word": "bệnh/ốm"
+  },
+  {
+    "Word": "biển"
+  },
+  {
+    "Word": "c"
+  },
+  {
+    "Word": "cá"
+  },
+  {
+    "Word": "cà chua"
+  },
+  {
+    "Word": "cá heo"
+  },
+  {
+    "Word": "cà rốt"
+  },
+  {
+    "Word": "cá sấu"
+  },
+  {
+    "Word": "các bạn"
+  },
+  {
+    "Word": "cảm ơn"
+  },
+  {
+    "Word": "cánh đồng"
+  },
+  {
+    "Word": "con"
+  },
+  {
+    "Word": "d"
+  },
+  {
+    "Word": "da"
+  },
+  {
+    "Word": "dầu gội"
+  },
+  {
+    "Word": "dấu hỏi"
+  },
+  {
+    "Word": "dấu huyền(1)"
+  },
+  {
+    "Word": "dấu huyền(2)"
+  },
+  {
+    "Word": "đ"
+  },
+  {
+    "Word": "đau bụng"
+  },
+  {
+    "Word": "đau răng"
+  },
+  {
+    "Word": "đất nước"
+  },
+  {
+    "Word": "đầu"
+  },
+  {
+    "Word": "e"
+  },
+  {
+    "Word": "em"
+  },
+  {
+    "Word": "em bé"
+  },
+  {
+    "Word": "ê"
+  },
+  {
+    "Word": "ế/ế ẩm"
+  },
+  {
+    "Word": "ếch"
+  },
+  {
+    "Word": "f"
+  },
+  {
+    "Word": "g"
+  },
+  {
+    "Word": "gà"
+  },
+  {
+    "Word": "gái"
+  },
+  {
+    "Word": "gãy"
+  },
+  {
+    "Word": "gặp"
+  },
+  {
+    "Word": "gần"
+  },
+  {
+    "Word": "gia đình"
+  },
+  {
+    "Word": "giáo viên"
+  },
+  {
+    "Word": "giày"
+  },
+  {
+    "Word": "giúp"
+  },
+  {
+    "Word": "gội đầu"
+  },
+  {
+    "Word": "h"
+  },
+  {
+    "Word": "hạ cánh"
+  },
+  {
+    "Word": "hàng rào"
+  },
+  {
+    "Word": "hạnh phúc"
+  },
+  {
+    "Word": "hát"
+  },
+  {
+    "Word": "hâm mộ"
+  },
+  {
+    "Word": "hấp dẫn"
+  },
+  {
+    "Word": "heo"
+  },
+  {
+    "Word": "ho"
+  },
+  {
+    "Word": "học sinh"
+  },
+  {
+    "Word": "i"
+  },
+  {
+    "Word": "ích kỷ"
+  },
+  {
+    "Word": "im lặng"
+  },
+  {
+    "Word": "indonesia"
+  },
+  {
+    "Word": "iran"
+  },
+  {
+    "Word": "irắc"
+  },
+  {
+    "Word": "ít"
+  },
+  {
+    "Word": "ít khi"
+  },
+  {
+    "Word": "j"
+  },
+  {
+    "Word": "jamaica"
+  },
+  {
+    "Word": "judo"
+  },
+  {
+    "Word": "k"
+  },
+  {
+    "Word": "karate"
+  },
+  {
+    "Word": "kem"
+  },
+  {
+    "Word": "kẹt xe"
+  },
+  {
+    "Word": "khỉ(1)"
+  },
+  {
+    "Word": "khỉ(2)"
+  },
+  {
+    "Word": "khí hậu"
+  },
+  {
+    "Word": "không đủ"
+  },
+  {
+    "Word": "không thích"
+  },
+  {
+    "Word": "ký hiệu"
+  },
+  {
+    "Word": "l"
+  },
+  {
+    "Word": "lá"
+  },
+  {
+    "Word": "làm"
+  },
+  {
+    "Word": "làng"
+  },
+  {
+    "Word": "lạnh"
+  },
+  {
+    "Word": "lịch sử"
+  },
+  {
+    "Word": "lo lắng"
+  },
+  {
+    "Word": "lũ lụt"
+  },
+  {
+    "Word": "lười biếng(1)"
+  },
+  {
+    "Word": "lười biếng(2)"
+  },
+  {
+    "Word": "m"
+  },
+  {
+    "Word": "malaysia"
+  },
+  {
+    "Word": "mạnh"
+  },
+  {
+    "Word": "mát mẻ"
+  },
+  {
+    "Word": "máu"
+  },
+  {
+    "Word": "màu sắc"
+  },
+  {
+    "Word": "máy bay"
+  },
+  {
+    "Word": "mẹ/má"
+  },
+  {
+    "Word": "mèo"
+  },
+  {
+    "Word": "miệng"
+  },
+  {
+    "Word": "n"
+  },
+  {
+    "Word": "nai"
+  },
+  {
+    "Word": "nắng"
+  },
+  {
+    "Word": "nâu"
+  },
+  {
+    "Word": "ngã tư"
+  },
+  {
+    "Word": "ngày mai"
+  },
+  {
+    "Word": "nghỉ"
+  },
+  {
+    "Word": "ngôi sao"
+  },
+  {
+    "Word": "nhà vệ sinh"
+  },
+  {
+    "Word": "no"
+  },
+  {
+    "Word": "o"
+  },
+  {
+    "Word": "ói"
+  },
+  {
+    "Word": "ô"
+  },
+  {
+    "Word": "ổi"
+  },
+  {
+    "Word": "ốm/gầy(1)"
+  },
+  {
+    "Word": "ốm/gầy(2)"
+  },
+  {
+    "Word": "ồn ào"
+  },
+  {
+    "Word": "ông"
+  },
+  {
+    "Word": "ơ"
+  },
+  {
+    "Word": "ở"
+  },
+  {
+    "Word": "ở dưới"
+  },
+  {
+    "Word": "ở đâu?"
+  },
+  {
+    "Word": "ở lại"
+  },
+  {
+    "Word": "ở trên"
+  },
+  {
+    "Word": "ớt"
+  },
+  {
+    "Word": "p"
+  },
+  {
+    "Word": "phá"
+  },
+  {
+    "Word": "phát triển"
+  },
+  {
+    "Word": "phía sau"
+  },
+  {
+    "Word": "phía trước"
+  },
+  {
+    "Word": "phó"
+  },
+  {
+    "Word": "phòng"
+  },
+  {
+    "Word": "phụ nữ"
+  },
+  {
+    "Word": "phút"
+  },
+  {
+    "Word": "q"
+  },
+  {
+    "Word": "quan hệ"
+  },
+  {
+    "Word": "quạt máy"
+  },
+  {
+    "Word": "quạt trần"
+  },
+  {
+    "Word": "quần jean"
+  },
+  {
+    "Word": "quần kaki"
+  },
+  {
+    "Word": "quần vợt"
+  },
+  {
+    "Word": "quê hương"
+  },
+  {
+    "Word": "quốc tịch"
+  },
+  {
+    "Word": "quýt"
+  },
+  {
+    "Word": "r"
+  },
+  {
+    "Word": "radio"
+  },
+  {
+    "Word": "rảnh không?"
+  },
+  {
+    "Word": "răng"
+  },
+  {
+    "Word": "rẻ"
+  },
+  {
+    "Word": "rồi chưa?"
+  },
+  {
+    "Word": "rộng"
+  },
+  {
+    "Word": "rửa"
+  },
+  {
+    "Word": "rừng"
+  },
+  {
+    "Word": "s"
+  },
+  {
+    "Word": "sách"
+  },
+  {
+    "Word": "sạch sẽ"
+  },
+  {
+    "Word": "sai"
+  },
+  {
+    "Word": "sẵn sàng"
+  },
+  {
+    "Word": "sân bay"
+  },
+  {
+    "Word": "sinh nhật"
+  },
+  {
+    "Word": "so sánh"
+  },
+  {
+    "Word": "sổ mũi"
+  },
+  {
+    "Word": "t"
+  },
+  {
+    "Word": "tai"
+  },
+  {
+    "Word": "tặng"
+  },
+  {
+    "Word": "tê giác"
+  },
+  {
+    "Word": "thác nước"
+  },
+  {
+    "Word": "thăm"
+  },
+  {
+    "Word": "thắng"
+  },
+  {
+    "Word": "thấp"
+  },
+  {
+    "Word": "thất bại"
+  },
+  {
+    "Word": "thất vọng"
+  },
+  {
+    "Word": "thể dục"
+  },
+  {
+    "Word": "thế giới"
+  },
+  {
+    "Word": "thể thao"
+  },
+  {
+    "Word": "thi đấu"
+  },
+  {
+    "Word": "thích không?"
+  },
+  {
+    "Word": "thịt"
+  },
+  {
+    "Word": "thỏ"
+  },
+  {
+    "Word": "thoải mái"
+  },
+  {
+    "Word": "thời khóa biểu"
+  },
+  {
+    "Word": "thời tiết"
+  },
+  {
+    "Word": "thùng rác"
+  },
+  {
+    "Word": "thủy đậu"
+  },
+  {
+    "Word": "thuyền"
+  },
+  {
+    "Word": "thư ký"
+  },
+  {
+    "Word": "thức khuya"
+  },
+  {
+    "Word": "thước kẻ"
+  },
+  {
+    "Word": "thương"
+  },
+  {
+    "Word": "ti vi"
+  },
+  {
+    "Word": "tiền giấy"
+  },
+  {
+    "Word": "tiền xu"
+  },
+  {
+    "Word": "tiếng việt"
+  },
+  {
+    "Word": "tòa nhà"
+  },
+  {
+    "Word": "tôi"
+  },
+  {
+    "Word": "trái(hướng)"
+  },
+  {
+    "Word": "trái cây"
+  },
+  {
+    "Word": "trái đất"
+  },
+  {
+    "Word": "trán"
+  },
+  {
+    "Word": "trang sức"
+  },
+  {
+    "Word": "trắng"
+  },
+  {
+    "Word": "trật khớp"
+  },
+  {
+    "Word": "trẻ em"
+  },
+  {
+    "Word": "trên"
+  },
+  {
+    "Word": "trồng"
+  },
+  {
+    "Word": "tủ lạnh"
+  },
+  {
+    "Word": "túi xách"
+  },
+  {
+    "Word": "tự hào"
+  },
+  {
+    "Word": "tức giận"
+  },
+  {
+    "Word": "u"
+  },
+  {
+    "Word": "ung thư"
+  },
+  {
+    "Word": "uống"
+  },
+  {
+    "Word": "út"
+  },
+  {
+    "Word": "ư"
+  },
+  {
+    "Word": "ước mơ"
+  },
+  {
+    "Word": "ướt"
+  },
+  {
+    "Word": "v"
+  },
+  {
+    "Word": "và"
+  },
+  {
+    "Word": "váy"
+  },
+  {
+    "Word": "văn hóa"
+  },
+  {
+    "Word": "văn học"
+  },
+  {
+    "Word": "văn phòng"
+  },
+  {
+    "Word": "vận động viên"
+  },
+  {
+    "Word": "vẽ"
+  },
+  {
+    "Word": "vệ sinh"
+  },
+  {
+    "Word": "vỉa hè"
+  },
+  {
+    "Word": "viêm họng"
+  },
+  {
+    "Word": "viết"
+  },
+  {
+    "Word": "việt nam"
+  },
+  {
+    "Word": "vịt"
+  },
+  {
+    "Word": "võ"
+  },
+  {
+    "Word": "vỡ"
+  },
+  {
+    "Word": "vợ"
+  },
+  {
+    "Word": "vợ chồng"
+  },
+  {
+    "Word": "vua"
+  },
+  {
+    "Word": "vui vẻ"
+  },
+  {
+    "Word": "vườn"
+  },
+  {
+    "Word": "x"
+  },
+  {
+    "Word": "xa"
+  },
+  {
+    "Word": "xà bông"
+  },
+  {
+    "Word": "xà lách"
+  },
+  {
+    "Word": "xanh lá"
+  },
+  {
+    "Word": "xấu hổ"
+  },
+  {
+    "Word": "xây dựng"
+  },
+  {
+    "Word": "xe buýt"
+  },
+  {
+    "Word": "xe đạp"
+  },
+  {
+    "Word": "xe hơi"
+  },
+  {
+    "Word": "xe taxi"
+  },
+  {
+    "Word": "xem tivi"
+  },
+  {
+    "Word": "xuân"
+  },
+  {
+    "Word": "xúc xích"
+  },
+  {
+    "Word": "xương"
+  },
+  {
+    "Word": "y"
+  },
+  {
+    "Word": "y tá"
+  },
+  {
+    "Word": "yếu"
+  },
+  {
+    "Word": "yêu(1)"
+  },
+  {
+    "Word": "yêu(2)"
+  },
+  {
+    "Word": "yêu(bạn yêu tôi)"
+  },
+  {
+    "Word": "yêu(tôi yêu bạn)"
+  },
+  {
+    "Word": "yêu thương"
+  },
+  {
+    "Word": "yogurt"
+  },
+  {
+    "Word": "ý"
+  }
 ]

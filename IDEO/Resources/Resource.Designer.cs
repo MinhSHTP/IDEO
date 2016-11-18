@@ -54,7 +54,19 @@ namespace IDEO
 			public const int logo = 2130837506;
 			
 			// aapt resource value: 0x7f020003
-			public const int splashscreen = 2130837507;
+			public const int Off_Ha_Noi = 2130837507;
+			
+			// aapt resource value: 0x7f020004
+			public const int Off_Hcm = 2130837508;
+			
+			// aapt resource value: 0x7f020005
+			public const int On_Ha_Noi = 2130837509;
+			
+			// aapt resource value: 0x7f020006
+			public const int On_Hcm = 2130837510;
+			
+			// aapt resource value: 0x7f020007
+			public const int splashscreen = 2130837511;
 			
 			static Drawable()
 			{
@@ -69,17 +81,29 @@ namespace IDEO
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f060003
-			public const int imgSplashScreen = 2131099651;
+			// aapt resource value: 0x7f060004
+			public const int HaNoi = 2131099652;
 			
-			// aapt resource value: 0x7f060001
-			public const int listVoca = 2131099649;
+			// aapt resource value: 0x7f060005
+			public const int Hcm = 2131099653;
+			
+			// aapt resource value: 0x7f060007
+			public const int imgSplashScreen = 2131099655;
+			
+			// aapt resource value: 0x7f060006
+			public const int imgimg = 2131099654;
+			
+			// aapt resource value: 0x7f060002
+			public const int listVoca = 2131099650;
 			
 			// aapt resource value: 0x7f060000
 			public const int scrollView1 = 2131099648;
 			
-			// aapt resource value: 0x7f060002
-			public const int word = 2131099650;
+			// aapt resource value: 0x7f060001
+			public const int searchView1 = 2131099649;
+			
+			// aapt resource value: 0x7f060003
+			public const int word = 2131099651;
 			
 			static Id()
 			{
@@ -101,7 +125,10 @@ namespace IDEO
 			public const int row_In_List_Voca = 2130903041;
 			
 			// aapt resource value: 0x7f030002
-			public const int SplashScreen_layout = 2130903042;
+			public const int ShowThisWord_layout = 2130903042;
+			
+			// aapt resource value: 0x7f030003
+			public const int SplashScreen_layout = 2130903043;
 			
 			static Layout()
 			{

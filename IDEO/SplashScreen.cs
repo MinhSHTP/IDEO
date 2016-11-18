@@ -14,7 +14,7 @@ using Java.Lang;
 
 namespace IDEO
 {
-    [Activity(MainLauncher = true)]
+    [Activity(MainLauncher = true, ScreenOrientation = Android.Content.PM.ScreenOrientation.SensorPortrait)]
     public class SplashScreen : Activity
     {
         int TIME_OUT = 2;
